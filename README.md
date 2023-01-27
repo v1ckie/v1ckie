@@ -1,6 +1,10 @@
 <div id="header" align="center">
-  <img src="https://v1ckie.github.io/imgs/name.gif" width="900"/>
+  <img src="https://v1ckie.github.io/imgs/name.gif" width="500"/>
 </div>
+
+
+<img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109763103716352946?domain=https%3A%2F%2Fgeekdom.social&style=for-the-badge">
+<a rel="me" href="https://geekdom.social/@v1ckie">Mastodon</a>
 
 ### Hi there 👋
 
