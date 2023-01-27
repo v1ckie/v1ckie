@@ -21,8 +21,10 @@
 </div>
 
 <div id="langs" align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1ckie&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ckie&layout=compact&theme=radical" />
+  </a>
+</div>
 
 -----
 
