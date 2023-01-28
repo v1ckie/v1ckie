@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109763103716352946?domain=https%3A%2F%2Fgeekdom.social&style=for-the-badge">
+  <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109763103716352946?domain=https%3A%2F%2Fgeekdom.social&style=for-the-badge" href="https://geekdom.social/@v1ckie">
 </div>
 <div id="banner1" align="center">
   :purple_heart::black_heart::purple_heart::black_heart::purple_heart::black_heart::purple_heart::black_heart::purple_heart:
