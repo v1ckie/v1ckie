@@ -12,6 +12,9 @@
 <div id="badges2" align="center">
   <img alt="Gender: M2F (AMAB)" src="https://img.shields.io/badge/Gender-M2F%20(AMAB)-ff69b4?style=for-the-badge">
   <img alt="Trans: not passing" src="https://img.shields.io/badge/Trans-not%20passing-red?style=for-the-badge">
+  <img alt="Joined: 27-01-2023" src="https://img.shields.io/badge/Joined-27--01--2023-success?style=for-the-badge">
+  <img alt="Asexual" src="https://img.shields.io/badge/-Asexual-lightgrey?style=for-the-badge">
+  <img alt="Sapphic" src="https://img.shields.io/badge/-Sapphic-ff69b4?style=for-the-badge">
 </div>
 <div id="badges3" align="center">
   <img src="https://komarev.com/ghpvc/?username=v1ckie&style=flat-square&color=blue" alt=""/>
