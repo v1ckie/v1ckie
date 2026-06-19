@@ -2,11 +2,6 @@
   <img src="https://v1ckie.github.io/imgs/name.gif" width="450"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://geekdom.social/@v1ckie">
-  <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109763103716352946?domain=https%3A%2F%2Fgeekdom.social&style=for-the-badge">
-  </a>
-</div>
 <div id="banner1" align="center">
   :purple_heart::black_heart::purple_heart::black_heart::purple_heart::black_heart::purple_heart::black_heart::purple_heart:
 </div>
@@ -31,9 +26,16 @@
   </a>
 </div>
 
------
+---
+Hi! I'm 𝕧 ｉ ᴄ ᛕ 🅸 𝗲 !
 
-### Hi there 👋
+A 𝔊𝔬𝔱𝔥𝔦𝔠 𝕒𝕤𝕖𝕩𝕦𝕒𝕝 :-)
+
+Ask me about Grim Town!
+
+Find out more on https://grimtown.uk/
+
+0x29a
 
 <!--
 **v1ckie/v1ckie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,4 +51,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a rel="me" href="https://geekdom.social/@v1ckie">Mastodon</a>
