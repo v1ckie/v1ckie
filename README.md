@@ -21,9 +21,7 @@
 </div>
 
 <div id="langs" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ckie&layout=compact&theme=radical" />
-  </a>
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=v1ckie)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ---
